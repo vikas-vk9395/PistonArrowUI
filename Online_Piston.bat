@@ -1,0 +1,1 @@
+C:\Users\mahindra\miniconda3\envs\detectron2\python.exe C:\Users\mahindra\Insightzz\code\UI\main_piston_v3.py 
